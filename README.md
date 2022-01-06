@@ -1,4 +1,4 @@
-# Rogue-Scripts-3.3.5
+# Rogue
 Rogue Vanish script for WOTLK priv servers
 Can change what abilitys in the Rogue.Lua file
 
